@@ -28,4 +28,7 @@ Outside of coding, I’m interested in business, startups, gaming, and creative 
 
 My goal is to continue growing as an engineer while building products that people genuinely find useful.
 
+Feel free to check out some of the projects I’ve worked on in my portfolio:  
+https://natewise7.github.io/PortfolioWeb/
+
 Contact: NatesWise@gmail.com
